@@ -1,2 +1,2 @@
-# Previsao-de-fraudes-financeiras-com-uso-do-algoritmo-PC
-Este é um trabalho desenvolvido para a disciplina de Análise Numérica, no curso superior de Ciência da Computação - IFNMG Campus Montes Claros.
+# Previsao de fraudes financeiras com uso do algoritmo PCA
+>   Neste estudo, foi realizado um projeto de previsão de fraudes financeiras utilizando Python. Inicialmente, os dados foram tratados para remover inconsistências e preparar para análise. Foram aplicados métodos de previsão para identificar fraudes em um conjunto de dados de um banco específico. Posteriormente, o mesmo processo de previsão foi repetido após a aplicação da Análise de Componentes Principais (PCA) para redução de dimensionalidade dos dados. O objetivo foi comparar a precisão das previsões antes e depois do uso do PCA, analisando o impacto da redução de dimensionalidade na eficácia dos modelos de previsão de fraudes.
